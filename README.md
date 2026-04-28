@@ -15,9 +15,7 @@ Analyze real-world sales data to identify trends and business insights.
 - Data visualization
 
 ## 📊 Key Insights
-- Identified top-performing regions
-- Analyzed category profitability
-- Discovered monthly sales trends
-
+- The Western Europe generated 32% of total sales — highest of all regions.
+-  The Canada had the lowest profit margin despite decent sales, suggesting high discounting.
 ## 🚀 Outcome
 This project demonstrates how real-world data can be transformed into actionable insights.
